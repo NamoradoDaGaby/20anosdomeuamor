@@ -1,0 +1,1 @@
+Coloque aqui sua musica como musica.mp3 (ou mude o nome em js/config.js)

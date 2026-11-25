@@ -1,0 +1,3 @@
+Fotos do casal: capa.jpg, foto-01.jpg, foto-02.jpg, destaque.jpg, polaroid-01..03.jpg, colagem-01..03.jpg, favorita-01..02.jpg.
+Adesivos das referencias dela: veja as pastas rapunzel/, stitch/, bts/ e princesa-sapo/ (cada uma tem um LEIA-ME.txt com a lista exata).
+As pastas ja estao criadas; nenhum personagem foi desenhado pelo projeto.

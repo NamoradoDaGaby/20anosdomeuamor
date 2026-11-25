@@ -1,0 +1,1 @@
+Pasta reservada para texturas proprias (as texturas padrao sao geradas em CSS, sem arquivos).
